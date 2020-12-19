@@ -13,6 +13,7 @@ Unit	|Date	|Topic				|
 |2.3| Sat, Dec  12, 2020 | [VBA Scripting 3](https://zoom.us/rec/play/T681OIKGrvKUGSo1Tjp-CRMHzOv5fodJj5Idc78eyE_hmb1yVIeB1JYcnHUIGRq7Umdt3WIYkmYbqNXm.P2J7uKRb215QOQe7?continueMode=true)
 |3.1| Mon, Dec  14, 2020 | [Python Day 1](https://zoom.us/rec/share/nhJrYagAUPlQ55ddQZmzV8mM1iIxkkznsTgLKUH_9utpklR92bA3ucfxMIOJQ_6z.JZUGZ7koWnwX9DuL)
 |3.2| Wed, Dec  16, 2020 | [Python Day 2](https://zoom.us/rec/share/ExVwum2Tt8-Fls2_JruTxpiBDQSVnXTc24k9ooDJltQ1D-TMOSNIX_QGE4rqnYNV.k4bg7zWNhpIOw6Xe)
+|3.3| Sat, Dec  19, 2020 | [Python Day 3](https://zoom.us/rec/share/cgEo6-nG5p3bAkGVbVoo4Rk5SLB7Sx1w_TYOHOVVXpSJ4ew6MVGf90rlykpBNTtd.bEYVVcKQneV2_P_e)
 
 
 
