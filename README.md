@@ -14,6 +14,4 @@ Unit	|Date	|Topic				|
 |3.1| Mon, Dec  14, 2020 | [Python Day 1](https://zoom.us/rec/share/nhJrYagAUPlQ55ddQZmzV8mM1iIxkkznsTgLKUH_9utpklR92bA3ucfxMIOJQ_6z.JZUGZ7koWnwX9DuL)
 |3.2| Wed, Dec  16, 2020 | [Python Day 2](https://zoom.us/rec/share/ExVwum2Tt8-Fls2_JruTxpiBDQSVnXTc24k9ooDJltQ1D-TMOSNIX_QGE4rqnYNV.k4bg7zWNhpIOw6Xe)
 |3.3| Sat, Dec  19, 2020 | [Python Day 3](https://zoom.us/rec/share/cgEo6-nG5p3bAkGVbVoo4Rk5SLB7Sx1w_TYOHOVVXpSJ4ew6MVGf90rlykpBNTtd.bEYVVcKQneV2_P_e)
-
-
-
+|4.1| Mon, Dec  21, 2020 | [Pandas Day 1](https://zoom.us/rec/share/gcaO8h-tHhpFw7xtIuGKQd_rGvBALPuNSQH0gNdcgthDM0OP-Jk7cxS21NIKJk2H.h4D5pyan2na_Df31)
