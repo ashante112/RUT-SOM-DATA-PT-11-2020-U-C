@@ -19,3 +19,4 @@ Unit	|Date	|Topic				|
 |4.3| Mon, Jan  4, 2021 | [Pandas Day 3](https://zoom.us/rec/share/SuJmKhHG4iv2z-qcyUpQ-aFYH6XYMZ-vKikZL91q9bFGCUZti_oBWlpK64lKSSS5.YdbDfPleXeCmldmJ)
 |5.1| Wed, Jan  6, 2021 | [Matplotlib Day 1](https://zoom.us/rec/share/NUPKYd1SyIP0KkSmScYT9qXI8RMq9pZH8aen_klVJCqAyY-kF21XHrX9U_o8ANCU.VL2Bfqry8-yo0cPl)
 |5.2| Sat, Jan  8, 2021 | [Matplotlib Day 2](https://zoom.us/rec/share/bbRaJdx1aRZg4q0RVaRmhobcPD4wfWpF9GOWwuMAB8JYLbi80ftDI160Qg5724Tv.fF0u0ZDXicC_drRr?startTime=1610201832000) 
+|5.3| Mon, Jan  11, 2021 | [Matplotlib Day 3](https://zoom.us/rec/share/3Ok0aoadOq76b5hDrF-9PayFENM9EKYUCQzvClPb2XcE5H01Knp3UR5rgOa9P2Q.f-1IuYZ9WU7Z-Xt0)
