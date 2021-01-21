@@ -21,3 +21,5 @@ Unit	|Date	|Topic				|
 |5.2| Sat, Jan  8, 2021 | [Matplotlib Day 2](https://zoom.us/rec/share/bbRaJdx1aRZg4q0RVaRmhobcPD4wfWpF9GOWwuMAB8JYLbi80ftDI160Qg5724Tv.fF0u0ZDXicC_drRr?startTime=1610201832000) 
 |5.3| Mon, Jan  11, 2021 | [Matplotlib Day 3](https://zoom.us/rec/share/3Ok0aoadOq76b5hDrF-9PayFENM9EKYUCQzvClPb2XcE5H01Knp3UR5rgOa9P2Q.f-1IuYZ9WU7Z-Xt0)
 |6.1| Wed, Jan  13, 2021 | [APIs Day 1](https://zoom.us/rec/share/7vdGXEgeWw-yKB9A9MwdRJ766YCFoBXCl27h86BRkYpOFr6dLyBP9GHXDA131EPy.iWLYXoKYWKtROPvC?startTime=1610577868000)
+|6.2| Sat, Jan  16, 2021 | [APIs Day 2](https://zoom.us/rec/share/NMd14krQbMpgofrUdRwJQvpOr72SsqkzUwLk8O0rESS717iPR_KxMGhYmQdw_EZS.O6I-J11sBZ90ABXd?startTime=1610806589000)
+|6.2| Wed, Jan  20, 2021 | [APIs Day 3](https://zoom.us/rec/share/OzghwMMQQvH7zQnDAuzsRVc5whT5OU2KoZInEv5txtKDTazOzj2svussBMgUX_Hw.4jIvbT70RA_86MS9?startTime=1611182902000)
