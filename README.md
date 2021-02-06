@@ -23,3 +23,8 @@ Unit	|Date	|Topic				|
 |6.1| Wed, Jan  13, 2021 | [APIs Day 1](https://zoom.us/rec/share/7vdGXEgeWw-yKB9A9MwdRJ766YCFoBXCl27h86BRkYpOFr6dLyBP9GHXDA131EPy.iWLYXoKYWKtROPvC?startTime=1610577868000)
 |6.2| Sat, Jan  16, 2021 | [APIs Day 2](https://zoom.us/rec/share/NMd14krQbMpgofrUdRwJQvpOr72SsqkzUwLk8O0rESS717iPR_KxMGhYmQdw_EZS.O6I-J11sBZ90ABXd?startTime=1610806589000)
 |6.2| Wed, Jan  20, 2021 | [APIs Day 3](https://zoom.us/rec/share/OzghwMMQQvH7zQnDAuzsRVc5whT5OU2KoZInEv5txtKDTazOzj2svussBMgUX_Hw.4jIvbT70RA_86MS9?startTime=1611182902000)
+|7.1| Sat, Jan  23, 2021 | [Project Day 1](https://zoom.us/rec/share/FDy9J2vMCWTI3oWvwagHBJwbrFiAM5x45RK8z9HU80kJ2dgD5Eq3ucEzjxVXGtqM.y_OpDQ83_BZw-RD_?startTime=1611411498000)
+|7.2| Mon, Jan  25, 2021 | [Project Day 2 - No video]
+|7.3| Wed, Jan  27, 2021 | [Project Day 3 - No video]
+|8.1| Sat, Jan  30, 2021 | [Project Day 4](https://zoom.us/rec/share/y_oSIbvr2apiesxC3_p23vsrtx6oBCZGS9XJ5HUgv6g2-1VV9ZIWsqHc2q-s7xXa.w5HJc9_8YahqOtp9?startTime=1612016503000)
+|8.2| Mon, Feb   1, 2021 | [Project Day 5](https://zoom.us/rec/share/xtmcimTMJ3OKcT6aBFj5-4Egkn2pX2L24WtgyW_L9YSE7CRHUt_BGakV9_nCuQod.lL8JAORDudYTBzu0?startTime=1612395238000)
