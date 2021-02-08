@@ -27,5 +27,6 @@ Unit	|Date	|Topic				|
 |7.2| Mon, Jan  25, 2021 | [Project Day 2 - No video]
 |7.3| Wed, Jan  27, 2021 | [Project Day 3 - No video]
 |8.1| Sat, Jan  30, 2021 | [Project Day 4](https://zoom.us/rec/share/y_oSIbvr2apiesxC3_p23vsrtx6oBCZGS9XJ5HUgv6g2-1VV9ZIWsqHc2q-s7xXa.w5HJc9_8YahqOtp9?startTime=1612016503000)
-|8.2| Mon, Feb   1, 2021 | [Project Day 5](https://zoom.us/rec/share/xtmcimTMJ3OKcT6aBFj5-4Egkn2pX2L24WtgyW_L9YSE7CRHUt_BGakV9_nCuQod.lL8JAORDudYTBzu0?startTime=1612395238000)
+|8.2| Mon, Feb   1, 2021 | [Project Day 5 - No video]
+|8.3| Wed, Feb   3, 2021 | [Project Presentations | SQL Installation] (https://zoom.us/rec/share/2PNpj1T3Vdd1lYKmmM1ou1haHnGmdXtdQvz9QyfEEOeeNodCMeFuY-LUEvCW2SvX.T4f9AJ2P0saqWK0F?startTime=1612395238000)
 |9.1| Sat, Feb   6, 2021 | [SQL Day 1](https://zoom.us/rec/share/zNdxxgcZcdOwPWYvL_v-BGSApnwMHinY0dPBUvJ5WiR8NNgtwTuKjrwECJfXKZea.7ugsatNtdW6t3YfF?startTime=1612623551000)
