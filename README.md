@@ -34,3 +34,4 @@ Unit	|Date	|Topic				|
 |9.3| Mon, Feb  10, 2021 | [SQL Day 3](https://zoom.us/rec/share/ZHaKopRMKSQ9eEVWf_J1FW6QzT0e9BuSURi9Td2SdrmVwagBPJEzWYYRZ0Ah4Tve.OA0_YN1VJCskcW8h?startTime=1612997243000)
 |10.1| Sat, Feb  13, 2021 | [Adv. SQL Day 1](https://zoom.us/rec/share/oL1s191WUdLXEIqdCp01iy2Kd1aGkC314hfnv8dghqhogn7o9juqDloOVUe8voyW.oxBfX6DNILCf_g6e?startTime=1613225963000)
 |10.2| Wed, Feb  17, 2021 | [Adv. SQL Day 2](https://zoom.us/rec/share/JwtuD_dj-GTNYh5_Rw-Sx458tacoyw3_GvVjz_xc5nIzXfx4jzVkHg5KsZaTIf_w.W2uPpUqQj1EFDGMQ?startTime=1613601984000)
+|10.3| Sat, Feb  20, 2021 | [Adv. SQL Day 3](https://zoom.us/rec/share/NkyjwZe50TsEPi_RnlY053Oq7JOISNehme80Bw7jDqGO7rFtuuiiTEirAmmywYzY.NK-o-0FGI0IV_X6Z?startTime=1613830774000)
